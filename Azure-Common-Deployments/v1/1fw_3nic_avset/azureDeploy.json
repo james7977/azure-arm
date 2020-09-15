@@ -89,21 +89,21 @@
     },
     "FW1-IPManagement": {
       "type": "string",
-      "defaultValue": "10.0.0.4",
+      "defaultValue": "10.0.0.5",
       "metadata": {
         "description": "Enter a private IP address for firewall-1's management interface."
       }
     },
     "FW1-IPDataplane1": {
       "type": "string",
-      "defaultValue": "10.0.1.4",
+      "defaultValue": "10.0.1.5",
       "metadata": {
         "description": "Enter a private IP address for firewall-1's first dataplane interface."
       }
     },
     "FW1-IPDataplane2": {
       "type": "string",
-      "defaultValue": "10.0.2.4",
+      "defaultValue": "10.0.2.5",
       "metadata": {
         "description": "Enter a private IP address for firewall-1's second dataplane interface."
       }
