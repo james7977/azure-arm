@@ -82,7 +82,7 @@
     },
     "FW1-Name": {
       "type": "string",
-      "defaultValue": "vmseries-vm1",
+      "defaultValue": "vmseries-vm2",
       "metadata": {
         "description": "Enter a name for the first firewall."
       }
